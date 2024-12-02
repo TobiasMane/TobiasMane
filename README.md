@@ -11,4 +11,4 @@ Meu nome é Davi Henrique
 davi.drongek.santana@escola.pr.gov.br
 
 
-[_](https://tenor.com/pt-BR/view/kendrick-gif)
+![_](https://tenor.com/pt-BR/view/kendrick-gif)
