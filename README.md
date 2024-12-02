@@ -9,3 +9,6 @@ Meu nome é Davi Henrique
 ### Você entrar em contanto comigo 📫
 
 davi.drongek.santana@escola.pr.gov.br
+
+
+https://tenor.com/pt-BR/view/kendrick-gif-11198649202869588639
