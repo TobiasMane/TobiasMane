@@ -2,7 +2,7 @@
 
 Meu nome é Davi Henrique
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,4 +11,4 @@ Meu nome é Davi Henrique
 davi.drongek.santana@escola.pr.gov.br
 
 
-https://tenor.com/pt-BR/view/kendrick-gif-11198649202869588639
+[_](https://tenor.com/pt-BR/view/kendrick-gif)
